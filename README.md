@@ -1,2 +1,2 @@
 # Gevorg-repository
-NEW
+It's my first repository
